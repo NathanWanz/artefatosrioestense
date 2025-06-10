@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://www.artefatosrioestense.com.br/</loc>
+    <lastmod>2024-06-08</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://www.artefatosrioestense.com.br/produtos.html</loc>
+    <lastmod>2024-06-08</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://www.artefatosrioestense.com.br/contato.html</loc>
+    <lastmod>2024-06-08</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.artefatosrioestense.com.br/materiais.pdf</loc>
+    <lastmod>2024-06-08</lastmod>
+    <priority>0.50</priority>
+  </url>
+
+</urlset>
